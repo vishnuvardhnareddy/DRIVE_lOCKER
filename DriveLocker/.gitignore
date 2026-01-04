@@ -1,0 +1,40 @@
+# Maven
+/target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.releaseBackup
+/mvnw
+/mvnw.cmd
+
+# Eclipse / STS
+.metadata
+.classpath
+.project
+.settings/
+.sts4-cache/
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+.env
+# Build artifacts
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# Log files
+*.log
+/logs/
+/tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
